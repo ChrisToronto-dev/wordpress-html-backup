@@ -1,0 +1,11 @@
+PLANNING.md
+.DS_Store
+backend/.env
+backend/storage/*.key
+backend/vendor/
+backend/public/storage
+backend/public/build
+backend/node_modules/
+backend/.phpunit.result.cache
+backend/database/database.sqlite
+backend/database/database.sqlite-journal
